@@ -154,7 +154,6 @@ public class MainActivity extends AppCompatActivity {
                     flag++;
                     if (flag == 1)
                         getInfo();
-                        int i = 1;
                     break;
                 default:
                     break;
