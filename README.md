@@ -1,2 +1,3 @@
 # LittleBaiduMap
-2016年手机平台应用开发第十次实验
+
+使用百度地图SDK开发的Android App DEMO
